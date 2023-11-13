@@ -10,4 +10,5 @@
 - 이모지 기능
 
 [배포 링크](https://chacha-notion-js-opal.vercel.app/)
-[블로그 포스트](https://velog.io/@cszzi1006/%ED%9A%8C%EA%B3%A0-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%9C%EB%8B%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)https://velog.io/@cszzi1006/%ED%9A%8C%EA%B3%A0-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%9C%EB%8B%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
+
+[블로그 포스트](https://velog.io/@cszzi1006/%ED%9A%8C%EA%B3%A0-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%9C%EB%8B%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)https://velog.io/@cszzi1006/%ED%9A%8C%EA%B3%A0-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EB%85%B8%EC%85%98-%ED%81%B4%EB%A1%9C%EB%8B%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
